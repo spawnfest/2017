@@ -388,5 +388,3 @@ rules:
       - text: "Event organizers will not reimburse you for any expenses or losses."
       - text: "Event organizers are not responsible for any damage, legal actions or any other outcomes that might be a result of your participation."
       - text: "Event organizers reserve the right to change these rules without prior notification."
-
-theme: jekyll-theme-minimal
