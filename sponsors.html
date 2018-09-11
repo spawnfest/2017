@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sponsors
-permalink: /sponsors
+permalink: /2017/sponsors
 ---
 
   <div class="p-3 text-center">
@@ -11,7 +11,7 @@ permalink: /sponsors
     <h2 class="display-5">Platinum Sponsor</h2>
     <a class="btn sp-link" target="_blank" href="{{ site.platinum_sponsor.url }}">
       <div class="p-3 text-center sp-box" style="background-color: {{ site.platinum_sponsor.background_color }};">
-        <img class="p-3 img-fluid sp-img" src="/img/{{ site.platinum_sponsor.image }}" alt="{{ site.platinum_sponsor.name }}">
+        <img class="p-3 img-fluid sp-img" src="/2017/img/{{ site.platinum_sponsor.image }}" alt="{{ site.platinum_sponsor.name }}">
         <p>{{ site.platinum_sponsor.description }}</p>
       </div>
     </a>
@@ -22,7 +22,7 @@ permalink: /sponsors
   {% for sponsor in site.gold_sponsors %}
     <a class="btn sp-link" target="_blank" href="{{ sponsor.url }}">
       <div class="p-3 text-center sp-box" style="background-color: {{ sponsor.background_color }};">
-        <img class="p-3 img-fluid sp-img" src="/img/{{ sponsor.image }}" alt="{{ sponsor.name }}" style="max-height: 75px">
+        <img class="p-3 img-fluid sp-img" src="/2017/img/{{ sponsor.image }}" alt="{{ sponsor.name }}" style="max-height: 75px">
         <p>{{ sponsor.description }}</p>
       </div>
     </a>

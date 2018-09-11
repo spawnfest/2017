@@ -15,7 +15,7 @@ body {
 }
 
 header.masthead {
-  background: url("../img/spawnfest.png") no-repeat center center scroll;
+  background: url("/2017/img/spawnfest.png") no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;

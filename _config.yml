@@ -1,16 +1,16 @@
 nav:
   - name: <span class="important">Winners</span>
-    url: /winners
+    url: /2017/winners
   - name: Rules
-    url: /rules
+    url: /2017/rules
   - name: Judges
-    url: /judges
+    url: /2017/judges
   - name: Sponsors
-    url: /sponsors
+    url: /2017/sponsors
   - name: Prizes
-    url: /prizes
+    url: /2017/prizes
   - name: Contact
-    url: /#contact
+    url: /2017/#contact
 
 platinum_sponsor:
   name: PegB
